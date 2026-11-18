@@ -1,0 +1,8 @@
+{
+  "storageFile": "password-vault.dat",
+  "logFile": "password-vault.log",
+  "automaticLockMinutes": 5,
+  "maximumUnlockAttempts": 3,
+  "defaultSort": "service",
+  "confirmBeforeDelete": true
+}
